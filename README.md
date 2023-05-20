@@ -1,21 +1,21 @@
-# Project Name: Examining-Soccer-Player-Goal-Statistics
+# Project Name: Examining Soccer Player Goal Statistics
 ======================================================
 
 ## Project Overview
-- Purpose and goal of the project    
+- **Purpose and goal of the project**    
 The English Premier League is one of the world's most-watched soccer leagues, with an estimated audience of 12 million people per game. With the substantial financial benefits, all significant teams of EPL are interested in Analytics and AI. Regarding sports analytics, machine learning and artificial intelligence have become extremely popular. The sports entertainment sector and the relevant stakeholders extensively use sophisticated algorithms to improve earnings and reduce business risk associated with selecting or betting on the wrong players.
-- Problem statement or objective    
+- **Problem statement or objective**    
 The objective of this project is to predict the scores of EPL soccer players.
 
 ## Data
-- Dataset(s) used
+- **Dataset(s) used**
   - Source, size, and format of the data
   - Preprocessing steps performed
 
 ## Methodology
-- Algorithms, techniques, or models employed
-- Rationale behind the chosen approaches
-- Unique or innovative aspects of the methodology
+- **Algorithms, techniques, or models employed**
+- **Rationale behind the chosen approaches**
+- **Unique or innovative aspects of the methodology**
 
 ## Data Cleaning and Preprocessing
 - Steps taken to clean and preprocess the data
