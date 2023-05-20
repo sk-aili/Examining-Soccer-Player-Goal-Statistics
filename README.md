@@ -18,51 +18,51 @@ The objective of this project is to predict the scores of EPL soccer players.
 - **Unique or innovative aspects of the methodology**
 
 ## Data Cleaning and Preprocessing
-- Steps taken to clean and preprocess the data
-- Handling of missing values, outliers, and normalization
-- Feature engineering techniques applied
+- **Steps taken to clean and preprocess the data**
+- **Handling of missing values, outliers, and normalization**
+- **Feature engineering techniques applied**
 
 ## Model Development and Evaluation
-- Process of developing the model(s)
-- Evaluation metrics used to assess performance
-- Results and insights gained from the evaluation
+- **Process of developing the model(s) **
+- **Evaluation metrics used to assess performance**
+- **Results and insights gained from the evaluation**
 
 ## Feature Selection and Dimensionality Reduction
-- Selection of relevant features
-- Dimensionality reduction techniques employed
-- Criteria for feature selection or reduction
+- **Selection of relevant features**
+- **Dimensionality reduction techniques employed**
+- **Criteria for feature selection or reduction**
 
 ## Visualization
-- Data visualization techniques used
-- Examples of visualizations created
-- Insights gained from the visualizations
+- **Data visualization techniques used**
+- **Examples of visualizations created**
+- **Insights gained from the visualizations**
 
 ## Deployment
-- Deployment process, if applicable
-- Frameworks or platforms used for deployment
-- Challenges or considerations related to deployment
+- **Deployment process, if applicable**
+- **Frameworks or platforms used for deployment**
+- **Challenges or considerations related to deployment**
 
 ## Challenges and Solutions
-- Challenges faced during the project
-- Strategies or techniques used to overcome challenges
-- Lessons learned from addressing the challenges
+- **Challenges faced during the project**
+- **Strategies or techniques used to overcome challenges**
+- **Lessons learned from addressing the challenges**
 
 ## Ethical Considerations
-- Ethical considerations relevant to the project
-- Steps taken to ensure fairness, transparency, or privacy
-- Measures in place to mitigate bias or ethical risks
+- **Ethical considerations relevant to the project**
+- **Steps taken to ensure fairness, transparency, or privacy**
+- **Measures in place to mitigate bias or ethical risks**
 
 ## Communication and Presentation
-- How results and findings were communicated
-- Efforts made to present technical concepts to non-technical audiences
-- Visual or written materials created for communication
+- **How results and findings were communicated**
+- **Efforts made to present technical concepts to non-technical audiences**
+- **Visual or written materials created for communication**
 
 ## Future Improvements
-- Ideas or suggestions for future enhancements or iterations
-- Areas of improvement in the project
-- Further research or experimentation to be pursued
+- **Ideas or suggestions for future enhancements or iterations**
+- **Areas of improvement in the project**
+- **Further research or experimentation to be pursued**
 
 ## Repository Structure
-- Clear and organized structure of the repository
-- Relevant folders, files, and documentation
-- Navigability of the repository for reviewers
+- **Clear and organized structure of the repository**
+- **Relevant folders, files, and documentation**
+- **Navigability of the repository for reviewers**
