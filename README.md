@@ -1,5 +1,5 @@
 # Project Name: Examining Soccer Player Goal Statistics
-======================================================
+=================================================================================
 
 ## Project Overview
 - **Purpose and goal of the project**    
@@ -9,8 +9,24 @@ The objective of this project is to predict the scores of EPL soccer players.
 
 ## Data
 - **Dataset(s) used**
-  - Source, size, and format of the data
-  - Preprocessing steps performed
+English Premier League Soccer dataset is retrieved from Kaggle. The dataset contains 202 rows, 13 columns. There are no null values in the dataset.    
+- **Data Dictionary**
+PlayerName : Player Name
+Club : Club of the player
+  1. MUN:Manchester United F.C.
+  2. CHE: Chelsea F.C.
+  3. LIV: Liverpool F.C.
+DistanceCovered(InKms): Average Kms distance covered by the player in each game
+Goals: Average Goals per match
+MinutestoGoalRatio: Minutes 
+ShotsPerGame: Average shots taken per game
+AgentCharges: Agent Fees in h
+BMI: Body-Mass index
+Cost: Cost of each player in hundread thousand dollars
+PreviousClubCost: Previous club cost in hundread thousand dollars
+Height: Height of player in cm
+Weight: Weight of player in kg
+Score: Average score per match
 
 ## Methodology
 - **Algorithms, techniques, or models employed**
