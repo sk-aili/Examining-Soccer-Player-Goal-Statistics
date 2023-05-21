@@ -8,9 +8,9 @@ The English Premier League is one of the world's most-watched soccer leagues, wi
 The objective of this project is to predict the scores of EPL soccer players.
 
 ## Data
-- **Dataset(s) used**
+- **Dataset(s) used**    
 English Premier League Soccer dataset is retrieved from Kaggle. The dataset contains 202 rows, 13 columns. There are no null values in the dataset.    
-- **Data Dictionary**
+- **Data Dictionary**    
 PlayerName : Player Name
 Club : Club of the player
   1. MUN:Manchester United F.C.
