@@ -28,6 +28,11 @@ Height: Height of player in cm
 Weight: Weight of player in kg
 Score: Average score per match
 
+## Architecture Diagram
+
+<img width="976" alt="Screenshot 2023-05-24 at 12 26 38 PM" src="https://github.com/sk-aili/Examining-Soccer-Player-Goal-Statistics/assets/99275093/4d877f60-4827-435f-bcc2-3c1d66f5f54c">
+
+
 ## Methodology
 **Algorithms, techniques, or models employed**   
 Linear Regression is a statistical approach to modeling the linear relationship between predictor variables and the target variable. These variables are known as the independent and dependent variables, respectively. 
