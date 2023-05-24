@@ -29,7 +29,7 @@ Weight: Weight of player in kg
 Score: Average score per match
 
 ## Methodology
-- **Algorithms, techniques, or models employed**
+**Algorithms, techniques, or models employed**   
 Linear Regression is a statistical approach to modeling the linear relationship between predictor variables and the target variable. These variables are known as the independent and dependent variables, respectively. 
 
 When there is one independent variable, it is known as **simple linear regression**. When there are more independent variables, it is called **multiple linear regression**.
