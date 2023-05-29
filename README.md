@@ -1,5 +1,8 @@
 # Project Name: Examining Soccer Player Goal Statistics
-=================================================================================
+=================================================================================    
+
+✅ Simple Linear Regression    
+✅ Multiple Linear Regression
 
 ## Project Overview
 - **Purpose and goal of the project**    
