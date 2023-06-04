@@ -1,4 +1,4 @@
-# Project Name: Examining Soccer Player Goal Statistics
+# Project Name: Sports Analytics
 =================================================================================    
 
 ✅ Simple Linear Regression    
