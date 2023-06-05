@@ -1,8 +1,8 @@
-# Project Name: Sports Analytics
-=================================================================================    
-
-✅ Simple Linear Regression    
-✅ Multiple Linear Regression
+Sports Analytics
+=================================================================================       
+🏷️ Simple Linear Regression    
+🏷️ Multiple Linear Regression   
+🏭 Entertainment: Sports
 
 ## Project Overview
 - **Purpose and goal of the project**    
