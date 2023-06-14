@@ -1,6 +1,6 @@
 Sports Analytics
 =================================================================================       
-🏷️ Simple Linear Regression  🏷️ Multiple Linear Regression   
+🔬 Simple Linear Regression  🔬 Multiple Linear Regression   
 🏭 Entertainment: Sports
 
 ## Project Overview
